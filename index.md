@@ -14,7 +14,7 @@ The extension accepts three inputs from the user:
 - 3D segmentation of the ROI
 - Transformation data in CSV format. The transformation data includes the registration results of the ROI from each cine 2D image to a 3D reference image
 
-![1690989084558](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/hapha/slicertrack.github.io/image/index/1690989084558.png)
+![1691774900393](image/index/1691774900393.png)
 
 Users can change playback speed, overmask mask outline or opacity. Once the user presses play, the extension will go through the series of 2D images with the 3D segmentation overlaid on the current 2D image. Users can decide to pause at any frame or go to any particular 2D image using the sequence slider.
 
