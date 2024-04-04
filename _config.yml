@@ -3,12 +3,13 @@ title: SlicerTrack Home Page
 description: Welcome to SlicerTrack Home Page!
 
 # Theme settings
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-include-cache 
 
 
 # Markdown settings
