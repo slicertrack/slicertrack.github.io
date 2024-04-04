@@ -1,31 +1,31 @@
-# Site settings
-title: SlicerTrack Home Page
-description: Welcome to SlicerTrack Home Page!
+# # Site settings
+# title: SlicerTrack Home Page
+# description: Welcome to SlicerTrack Home Page!
 
-# Theme settings
-theme: minimal-mistakes-jekyll
+# # Theme settings
+# theme: minimal-mistakes-jekyll
 
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-include-cache 
+# # Plugins
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag
+#   - jekyll-include-cache 
 
 
-# Markdown settings
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+# # Markdown settings
+# markdown: kramdown
+# kramdown:
+#   input: GFM
+#   syntax_highlighter: rouge
 
-# Navigation
-nav:
-  - title: SlicerTrack Home Page
-    url: /
+# # Navigation
+# nav:
+#   - title: SlicerTrack Home Page
+#     url: /
 
-# Social media links
-social:
-  - title: GitHub
-    url: https://github.com/laboratory-for-translational-medicine
-  - title: email
-    url: mailto:SlicerTrack@cs.torontomu.ca
+# # Social media links
+# social:
+#   - title: GitHub
+#     url: https://github.com/laboratory-for-translational-medicine
+#   - title: email
+#     url: mailto:SlicerTrack@cs.torontomu.ca

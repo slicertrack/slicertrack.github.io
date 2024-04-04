@@ -12,7 +12,8 @@ The extension accepts three inputs from the user:
 
 - A set of cine MR images
 - A segmentation of the ROI
-- The transformation data reflects the amount of displacement of the ROI expressed in the DICOM coordinate system. It can be in csv, txt, xlsx or xls format
+- The transformation data reflects the amount of displacement of the ROI expressed in the DICOM coordinate system. It can be in csv, txt, xlsx or xls format.
+
 
 ![Slicer Track Inputs](resources/screenshots/ST_inputs.png)
 
