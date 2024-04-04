@@ -1,0 +1,30 @@
+# Site settings
+title: SlicerTrack Home Page
+description: Welcome to SlicerTrack Home Page!
+
+# Theme settings
+theme: jekyll-theme-minimal
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Navigation
+nav:
+  - title: SlicerTrack Home Page
+    url: /
+
+# Social media links
+social:
+  - title: GitHub
+    url: https://github.com/laboratory-for-translational-medicine
+  - title: email
+    url: mailto:SlicerTrack@cs.torontomu.ca
