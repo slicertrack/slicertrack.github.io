@@ -4,7 +4,7 @@ SlicerTrack is open-source, extendable, developed in Python as an extension on t
 
 ## Screenshot
 
-![1690989074290](image/index/1690989074290.png)
+![SlicerTrack Screenshot 1](resources/screenshots/ST1.png)
 
 # What can SlicerTrack do?
 
@@ -14,11 +14,11 @@ The extension accepts three inputs from the user:
 - 3D segmentation of the ROI
 - Transformation data in CSV format. The transformation data includes the registration results of the ROI from each cine 2D image to a 3D reference image
 
-![1691774900393](image/index/1691774900393.png)
+![Slicer Track Inputs](resources/screenshots/ST_inputs.png)
 
 Users can change playback speed, overmask mask outline or opacity. Once the user presses play, the extension will go through the series of 2D images with the 3D segmentation overlaid on the current 2D image. Users can decide to pause at any frame or go to any particular 2D image using the sequence slider.
 
-![1690989120670](image/index/1690989120670.png)
+![SlicerTrack Media Control](resources/screenshots/ST_mediaControl.png)
 
 ---
 
