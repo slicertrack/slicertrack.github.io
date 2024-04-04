@@ -20,7 +20,7 @@ Users can change playback speed, overmask mask outline or opacity. Once the user
 
 ![SlicerTrack Media Control](resources/screenshots/ST_mediaControl.png)
 
-## Getting started (WIP)
+## Tutorials (WIP)
 
 ### Pre-requisites
 
@@ -37,5 +37,3 @@ Users can change playback speed, overmask mask outline or opacity. Once the user
 If you encounter any problem, please contact:
 
 [SlicerTrack@cs.torontomu.ca](mailto:SlicerTrack@cs.torontomu.ca)
-
-Hello 
