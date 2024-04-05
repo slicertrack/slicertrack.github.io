@@ -2,8 +2,8 @@
 layout: default
 ---
 # Contributors
-* HaPhan Tran (Toronto Metropolitan University, Toronto, ON)
-*  Elodie Lugez (Toronto Metropolitan University, Toronto, ON)
+* **HaPhan Tran** (Toronto Metropolitan University, Toronto, ON)
+*  **Elodie Lugez** (Toronto Metropolitan University, Toronto, ON)
 
 
 
