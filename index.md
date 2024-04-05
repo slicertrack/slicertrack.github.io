@@ -26,9 +26,9 @@ Users can change playback speed, overmask mask outline or opacity. Once the user
 **All of the key features in SlicerTrack will be available in the extension’s** <mark style="background-color: lightgray">Inputs</mark> **and** <mark style="background-color: lightgray">Sequences</mark> **section**
 
 1. Open SlicerTrack by selecting the (1) dropdown menu > (2) SlicerTrack > (3) Track
-
+<br>
     ![SlicerTrack Document1](resources/screenshots/ST_Document1.png)
-
+<br>
 2. Load Inputs 
 
     Click the button next to the file path textbox to select the inputs easily
@@ -36,24 +36,25 @@ Users can change playback speed, overmask mask outline or opacity. Once the user
     - **Cine Images Folder:** Select the folder with cine images
     - **Segmentation File:** Select the 3D segmentation file
     - **Transformation File:** Select a transformation file
-
+<br>
     ![SlicerTrack Document2](resources/screenshots/ST_Document2.png)
-
+<br>
 3. Designate Transformation Columns
     - Translation: 
         - **X_Dicom:** Select the header for the X-direction transformations
         - **Y_Dicom:** Select the header for the Y-direction transformations
         - **Z_Dicom:** Select the header for the Z-direction transformations
     - Click **Apply Transformations**
-
+<br>
     ![SlicerTrack Document3](resources/screenshots/ST_Document3.png)
+<br>
 
 4. Review Tracking Results
     - After creating transform nodes from transformation data, the cine images and 3D segmentation are shown in the slice viewers
     - Use the built-in toolbar to replay tracking data
-
+<br>
     ![SlicerTrack Document5](resources/screenshots/ST_Document5.png)
-
+<br>
 
 ### Additional Features
 - Play cine images zoomed in/out
@@ -84,11 +85,7 @@ Warm regards
 
 ### Pre-requisites
 
-- 3D Slicer software version 5.6.1 installed
-- **Recommended Hardware:** 
-        - acOS Sonoma
-        - 14.2.1 Operating System with an Apple M2 CPU (3.00 GHz, 8-core) and
-        - 16 GB RAM. 
+- 3D Slicer software version 5.6.1 installed 
 
 ### Install the Extension
 
