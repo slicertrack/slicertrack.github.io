@@ -2,9 +2,9 @@
 layout: default
 ---
 # Contributors
+* HaPhan Tran (Toronto Metropolitan University, Toronto, ON)
+*  Elodie Lugez (Toronto Metropolitan University, Toronto, ON)
 
-*   __Csaba Pinter__ (Queen's University, Kingston, ON)
-*   __Andras Lasso__ (Queen's University, Kingston, ON)
 
 
 
@@ -12,8 +12,13 @@ layout: default
 
 #### Students (alphabetical order)
 
-*   Kevin Alexander (Queen's University, Kingston, ON)
-*   Jennifer Andrea (Queen's University, Kingston, ON)
+* Fabyan Mikhael (Toronto Metropolitan University, Toronto, ON)
+*   Mubariz Afzal (Toronto Metropolitan University, Toronto, ON)
+* Teo Mesrkhani (Toronto Metropolitan University, Toronto, ON)
+*   Jacqueline Banh (Toronto Metropolitan University, Toronto, ON)
+* Nicholas Caro Lopez (Toronto Metropolitan University, Toronto, ON)
+* Venkat Guru Prasad (Toronto Metropolitan University, Toronto, ON)
+* Sayeed Jalil (Toronto Metropolitan University, Toronto, ON)
 
 <br>
 <br>
