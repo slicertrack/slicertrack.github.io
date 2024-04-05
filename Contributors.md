@@ -18,4 +18,4 @@ layout: default
 <br>
 <br>
 
-# Funding sources for the SlicerRT project
+# Funding sources for the SlicerTrack project

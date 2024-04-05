@@ -3,10 +3,10 @@ layout: default
 ---
 # Download and install 3D Slicer
 
-*   Latest stable Slicer release is <b>recommended</b> to use for SlicerRT.<br>These packages for Windows, Mac, and Linux can be downloaded from the [3D Slicer download page](http://download.slicer.org/).<br><br>
+*   Latest stable Slicer release is <b>recommended</b> to use for SlicerTrack.<br>These packages for Windows, Mac, and Linux can be downloaded from the [3D Slicer download page](http://download.slicer.org/).<br><br>
 *   Preview Slicer builds can be used to access cutting edge Slicer features<br>These packages can be downloaded from the same the [download page](http://download.slicer.org/).<br>Note: Preview builds may fail from time to time. In that case the last successful preview build is available.
 
-# Install SlicerRT
+# Install SlicerTrack
 
 ## Via Extension Manager
 
@@ -33,7 +33,7 @@ layout: default
 
 # System requirements
 
-To run 3D Slicer you need the following configuration (SlicerRT extensions do not have any additional requirement):
+To run 3D Slicer you need the following configuration (SlicerTrack extensions do not have any additional requirement):
 
 *   Computer with a 64-bit operating system  [required]
 *   Minimum 8GB RAM [recommended for optimal performance]
