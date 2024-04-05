@@ -12,12 +12,14 @@ layout: default
 
 *   Download SlicerTrack Package from [here](https://drive.google.com/file/d/1k8vI_GSSBOjsnmf_VTtI6GF61TExri_o/view?usp=sharing)
 *   Start 3D Slicer
-<br><br>
 *   Open Extension Manager
 <br><br>
 ![3D Slicer - Open Extension Manager](https://github.com/SlicerRt/slicerrt.github.com/raw/master/images/ExtensionManager_Open.png)
 *   Click on Install from file...
-![Install from file](https://github.com/slicertrack/slicertrack.github.io/blob/dfa894a7a581191c89354ac0a529764f44ceb18f/resources/download_page/install_from_file.png))
+<br><br>
+![Install from file](https://raw.github.com/slicertrack/slicertrack.github.io/blob/dfa894a7a581191c89354ac0a529764f44ceb18f/resources/download_page/install_from_file.png)
+
+![install from file](resources/download_page/install_from_file.png)
 
 *   Select the SlicerTrack package downloaded earlier.
 *   After installing, restart Slicer and test the package.
