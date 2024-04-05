@@ -10,7 +10,7 @@ layout: default
 
 <br>
 
-#### Students (alphabetical order)
+#### Students 
 
 * Fabyan Mikhael (Toronto Metropolitan University, Toronto, ON)
 *   Mubariz Afzal (Toronto Metropolitan University, Toronto, ON)
