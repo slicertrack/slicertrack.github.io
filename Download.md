@@ -22,7 +22,6 @@ layout: default
 *   Select the SlicerTrack package downloaded earlier.
 *   After installing, restart Slicer and test the package.
 
-
 <!-- 
 <br><br>
 *   Install SlicerTrack
