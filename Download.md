@@ -18,8 +18,6 @@ layout: default
 ![3D Slicer - Open Extension Manager](https://github.com/SlicerRt/slicerrt.github.com/raw/master/images/ExtensionManager_Open.png)
 *   Click on Install from file...
 ![Install from file](resources/download_page/install_from_file.png)
-
-<br><br>
 *   Select the SlicerTrack package downloaded earlier.
 *   After installing, restart Slicer and test the package.
 
