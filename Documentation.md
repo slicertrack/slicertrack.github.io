@@ -33,7 +33,10 @@ Click the button next to the file path textbox to select the inputs easily
   <img src='resources/screenshots/ST_Document3.png' style='max-width: 739px;'/>
   <br>
 
-1. Review Tracking Results - After creating transform nodes from transformation data, the cine images and 3D segmentation are shown in the slice viewers - Use the built-in toolbar to replay tracking data
+1. Review Tracking Results
+
+- After creating transform nodes from transformation data, the cine images and 3D segmentation are shown in the slice viewers
+- Use the built-in toolbar to replay tracking data
    <br>
    <img src='resources/screenshots/ST_Document5.png' style='max-width: 739px;'/>
    <br>
