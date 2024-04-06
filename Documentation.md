@@ -16,7 +16,7 @@ layout: default
     - **Segmentation File:** Select the 3D segmentation file
     - **Transformation File:** Select a transformation file
 <br>
-    ![SlicerTrack Document2](./resources/screenshots/ST_Document2.png)
+    <img src='resources/screenshots/ST_Document2.png' style='max-width: 739px;'/>
 <br>
 1. Designate Transformation Columns
     - Translation: 
@@ -25,14 +25,14 @@ layout: default
         - **Z_Dicom:** Select the header for the Z-direction transformations
     - Click **Apply Transformations**
 <br>
-    ![SlicerTrack Document3](resources/screenshots/ST_Document3.png)
+    <img src='resources/screenshots/ST_Document3.png' style='max-width: 739px;'/>
 <br>
 
 1. Review Tracking Results
     - After creating transform nodes from transformation data, the cine images and 3D segmentation are shown in the slice viewers
     - Use the built-in toolbar to replay tracking data
 <br>
-    ![SlicerTrack Document5](resources/screenshots/ST_Document5.png)
+    <img src='resources/screenshots/ST_Document5.png' style='max-width: 739px;'/>
 <br>
 
 ### Additional Features
