@@ -6,12 +6,13 @@ layout: default
 
 **All of the key features in SlicerTrack will be available in the extension’s** <mark style="background-color: lightgray">Inputs</mark> **and** <mark style="background-color: lightgray">Sequences</mark> **section**
 
-1. Open SlicerTrack by selecting the (1) dropdown menu > (2) SlicerTrack > (3) Track
+<ol>
+<li>Open SlicerTrack by selecting the (1) dropdown menu > (2) SlicerTrack > (3) Track </li>
    <br>
    <img src='resources/screenshots/ST_Document1.png' style='max-width: 739px;'/>
    <br>
 
-2. Load Inputs
+<li>Load Inputs</li>
 
 Click the button next to the file path textbox to select the inputs easily
 
@@ -38,7 +39,7 @@ Click the button next to the file path textbox to select the inputs easily
    <br>
    <img src='resources/screenshots/ST_Document5.png' style='max-width: 739px;'/>
    <br>
-
+</ok>
 ## Additional Features
 
 - Play cine images zoomed in/out
