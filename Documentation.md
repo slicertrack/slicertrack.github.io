@@ -27,7 +27,8 @@ Click the button next to the file path textbox to select the inputs easily
 
 - **X_Dicom:** Select the header for the X-direction transformations
 - **Y_Dicom:** Select the header for the Y-direction transformations
-- **Z_Dicom:** Select the header for the Z-direction transformations - Click **Apply Transformations**
+- **Z_Dicom:** Select the header for the Z-direction transformations
+- Click **Apply Transformations**
   <br>
   <img src='resources/screenshots/ST_Document3.png' style='max-width: 739px;'/>
   <br>
