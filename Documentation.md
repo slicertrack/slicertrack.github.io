@@ -16,7 +16,7 @@ layout: default
     - **Segmentation File:** Select the 3D segmentation file
     - **Transformation File:** Select a transformation file
 <br>
-    ![SlicerTrack Document2](resources/screenshots/ST_Document2.png)
+    ![SlicerTrack Document2](./resources/screenshots/ST_Document2.png)
 <br>
 1. Designate Transformation Columns
     - Translation: 
