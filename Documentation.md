@@ -25,12 +25,14 @@ Click the button next to the file path textbox to select the inputs easily
 <li>Designate Transformation Columns - Translation:</li>
 <br>
 
+
 - **X_Dicom:** Select the header for the X-direction transformations
 - **Y_Dicom:** Select the header for the Y-direction transformations
 - **Z_Dicom:** Select the header for the Z-direction transformations
 - Click **Apply Transformations**
 
-  <br>
+
+  <br><br>
   <img src='resources/screenshots/ST_Document3.png' style='max-width: 739px;'/>
   <br>
 
@@ -40,7 +42,7 @@ Click the button next to the file path textbox to select the inputs easily
 - After creating transform nodes from transformation data, the cine images and 3D segmentation are shown in the slice viewers
 - Use the built-in toolbar to replay tracking data
   
-   <br>
+   <br><br>
    <img src='resources/screenshots/ST_Document5.png' style='max-width: 739px;'/>
    <br>
 </ol>
