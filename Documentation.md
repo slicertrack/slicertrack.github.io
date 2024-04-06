@@ -6,7 +6,7 @@ layout: default
 
 1. Open SlicerTrack by selecting the (1) dropdown menu > (2) SlicerTrack > (3) Track
 <br>
-    <img src='resources/screenshots/ST_Document1.png' />
+    <img src='resources/screenshots/ST_Document1.png' style='max-width: 739px;'/>
 <br>
 1. Load Inputs 
 
