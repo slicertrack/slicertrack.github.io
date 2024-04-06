@@ -176,11 +176,11 @@ h3.thinner {
 
 #hero-spot {
   height: 180px;
-  background: -webkit-linear-gradient(top, #b3b4b4, #313a3c);
-  background: -moz-linear-gradient(top, #b3b4b4, #313a3c);
-  background: -ms-linear-gradient(top, #b3b4b4, #313a3c);
-  background: -o-linear-gradient(top, #b3b4b4, #313a3c);
-  background: gradient(top, #b3b4b4, #313a3c);
+  background: -webkit-linear-gradient(top, #9da3a3, #000000);
+  background: -moz-linear-gradient(top, #9da3a3, #000000);
+  background: -ms-linear-gradient(top, #9da3a3, #000000);
+  background: -o-linear-gradient(top, #9da3a3, #000000);
+  background: gradient(top, #9da3a3, #000000);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4bb0c3', endColorstr='#0d83a3',GradientType=0 );
 }
 
