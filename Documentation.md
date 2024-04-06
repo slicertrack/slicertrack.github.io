@@ -11,20 +11,17 @@ layout: default
    <img src='resources/screenshots/ST_Document1.png' style='max-width: 739px;'/>
    <br>
 
-1. Load Inputs
+2. Load Inputs
 
 Click the button next to the file path textbox to select the inputs easily
 
 - **Cine Images Folder:** Select the folder with cine images
 - **Segmentation File:** Select the 3D segmentation file
 - **Transformation File:** Select a transformation file
-
-    <br>
-        <img src='resources/screenshots/ST_Document2.png' style='max-width: 739px;'/>
-    <br>
-
-1. Designate Transformation Columns - Translation:
-
+  <br>
+      <img src='resources/screenshots/ST_Document2.png' style='max-width: 739px;'/>
+  <br>
+3. Designate Transformation Columns - Translation:
 - **X_Dicom:** Select the header for the X-direction transformations
 - **Y_Dicom:** Select the header for the Y-direction transformations
 - **Z_Dicom:** Select the header for the Z-direction transformations
@@ -33,7 +30,7 @@ Click the button next to the file path textbox to select the inputs easily
   <img src='resources/screenshots/ST_Document3.png' style='max-width: 739px;'/>
   <br>
 
-1. Review Tracking Results
+4. Review Tracking Results
 
 - After creating transform nodes from transformation data, the cine images and 3D segmentation are shown in the slice viewers
 - Use the built-in toolbar to replay tracking data
