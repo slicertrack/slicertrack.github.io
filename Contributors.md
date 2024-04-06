@@ -15,3 +15,6 @@ layout: default
 - Sayeed Jalil (Toronto Metropolitan University, Toronto, ON)
 
 # Funding sources for the SlicerTrack project
+
+- Toronto Metropolitan University - Falcuty of Science
+- NSERC Discovery Grant

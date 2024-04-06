@@ -6,9 +6,9 @@ layout: default
 
 1. Open SlicerTrack by selecting the (1) dropdown menu > (2) SlicerTrack > (3) Track
 <br>
-    ![SlicerTrack Document1](resources/screenshots/ST_Document1.png)
+    <img src='resources/screenshots/ST_Document1.png' />
 <br>
-2. Load Inputs 
+1. Load Inputs 
 
     Click the button next to the file path textbox to select the inputs easily
 
@@ -18,7 +18,7 @@ layout: default
 <br>
     ![SlicerTrack Document2](resources/screenshots/ST_Document2.png)
 <br>
-3. Designate Transformation Columns
+1. Designate Transformation Columns
     - Translation: 
         - **X_Dicom:** Select the header for the X-direction transformations
         - **Y_Dicom:** Select the header for the Y-direction transformations
@@ -28,7 +28,7 @@ layout: default
     ![SlicerTrack Document3](resources/screenshots/ST_Document3.png)
 <br>
 
-4. Review Tracking Results
+1. Review Tracking Results
     - After creating transform nodes from transformation data, the cine images and 3D segmentation are shown in the slice viewers
     - Use the built-in toolbar to replay tracking data
 <br>
