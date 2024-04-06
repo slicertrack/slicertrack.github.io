@@ -26,10 +26,10 @@ Click the button next to the file path textbox to select the inputs easily
 <br>
 
 <ul>
-<li>>**X_Dicom:** Select the header for the X-direction transformations</li>
-<li>>**Y_Dicom:** Select the header for the Y-direction transformations</li>
-<li>>**Z_Dicom:** Select the header for the Z-direction transformations</li>
-<li>>Click **Apply Transformations**</li>
+<li style='list-style-type: square'>**X_Dicom:** Select the header for the X-direction transformations</li>
+<li style='list-style-type: square'>**Y_Dicom:** Select the header for the Y-direction transformations</li>
+<li style='list-style-type: square'>**Z_Dicom:** Select the header for the Z-direction transformations</li>
+<li style='list-style-type: square'>Click **Apply Transformations**</li>
 </ul>
 
   <br><br>
@@ -39,8 +39,8 @@ Click the button next to the file path textbox to select the inputs easily
 <li>Review Tracking Results</li>
 <br>
 <ul>
-<li>After creating transform nodes from transformation data, the cine images and 3D segmentation are shown in the slice viewers</li>
-<li>Use the built-in toolbar to replay tracking data</li>
+<li style='list-style-type: square'>After creating transform nodes from transformation data, the cine images and 3D segmentation are shown in the slice viewers</li>
+<li style='list-style-type: square'>Use the built-in toolbar to replay tracking data</li>
 </ul>  
    <br><br>
    <img src='resources/screenshots/ST_Document5.png' style='max-width: 739px;'/>
