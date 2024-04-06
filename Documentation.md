@@ -2,13 +2,15 @@
 layout: default
 ---
 # Documentation
+
+
 **All of the key features in SlicerTrack will be available in the extension’s** <mark style="background-color: lightgray">Inputs</mark> **and** <mark style="background-color: lightgray">Sequences</mark> **section**
 
 1. Open SlicerTrack by selecting the (1) dropdown menu > (2) SlicerTrack > (3) Track
 <br>
     <img src='resources/screenshots/ST_Document1.png' style='max-width: 739px;'/>
 <br>
-1. Load Inputs 
+2. Load Inputs
 
     Click the button next to the file path textbox to select the inputs easily
 
@@ -18,7 +20,7 @@ layout: default
 <br>
     <img src='resources/screenshots/ST_Document2.png' style='max-width: 739px;'/>
 <br>
-1. Designate Transformation Columns
+3. Designate Transformation Columns
     - Translation: 
         - **X_Dicom:** Select the header for the X-direction transformations
         - **Y_Dicom:** Select the header for the Y-direction transformations
@@ -28,14 +30,15 @@ layout: default
     <img src='resources/screenshots/ST_Document3.png' style='max-width: 739px;'/>
 <br>
 
-1. Review Tracking Results
+4. Review Tracking Results
     - After creating transform nodes from transformation data, the cine images and 3D segmentation are shown in the slice viewers
     - Use the built-in toolbar to replay tracking data
 <br>
     <img src='resources/screenshots/ST_Document5.png' style='max-width: 739px;'/>
 <br>
 
-### Additional Features
+## Additional Features
+
 - Play cine images zoomed in/out
 - Adjust overlay opacity using the overlay opacity slider bar
 - Use the image slider bar to move to a specific frame
