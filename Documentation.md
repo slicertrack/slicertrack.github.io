@@ -7,12 +7,13 @@ layout: default
 **All of the key features in SlicerTrack will be available in the extension’s** <mark style="background-color: lightgray">Inputs</mark> **and** <mark style="background-color: lightgray">Sequences</mark> **section**
 
 1. Open SlicerTrack by selecting the (1) dropdown menu > (2) SlicerTrack > (3) Track
-    <br>
-    <img src='resources/screenshots/ST_Document1.png' style='max-width: 739px;'/>
-    <br>
+   <br>
+   <img src='resources/screenshots/ST_Document1.png' style='max-width: 739px;'/>
+   <br>
+
 1. Load Inputs
 
-        Click the button next to the file path textbox to select the inputs easily
+Click the button next to the file path textbox to select the inputs easily
 
 - **Cine Images Folder:** Select the folder with cine images
 - **Segmentation File:** Select the 3D segmentation file
@@ -22,19 +23,19 @@ layout: default
         <img src='resources/screenshots/ST_Document2.png' style='max-width: 739px;'/>
     <br>
 
-1. Designate Transformation Columns - Translation: 
+1. Designate Transformation Columns - Translation:
 
-- **X_Dicom:** Select the header for the X-direction transformations 
-- **Y_Dicom:** Select the header for the Y-direction transformations 
+- **X_Dicom:** Select the header for the X-direction transformations
+- **Y_Dicom:** Select the header for the Y-direction transformations
 - **Z_Dicom:** Select the header for the Z-direction transformations - Click **Apply Transformations**
-    <br>
-    <img src='resources/screenshots/ST_Document3.png' style='max-width: 739px;'/>
-    <br>
+  <br>
+  <img src='resources/screenshots/ST_Document3.png' style='max-width: 739px;'/>
+  <br>
 
 1. Review Tracking Results - After creating transform nodes from transformation data, the cine images and 3D segmentation are shown in the slice viewers - Use the built-in toolbar to replay tracking data
-    <br>
-    <img src='resources/screenshots/ST_Document5.png' style='max-width: 739px;'/>
-    <br>
+   <br>
+   <img src='resources/screenshots/ST_Document5.png' style='max-width: 739px;'/>
+   <br>
 
 ## Additional Features
 
