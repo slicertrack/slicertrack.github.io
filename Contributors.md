@@ -16,5 +16,5 @@ layout: default
 
 # Funding sources for the SlicerTrack project
 
-- Toronto Metropolitan University - Falcuty of Science
+- Toronto Metropolitan University - Faculty of Science
 - NSERC Discovery Grant
