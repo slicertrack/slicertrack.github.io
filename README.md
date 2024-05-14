@@ -1,2 +1,2 @@
-# slicertrack.github.io
-Homepage for SlicerTrack
+# slicercinetrack.github.io
+Homepage for SlicerCineTrack
